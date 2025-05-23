@@ -2,7 +2,7 @@
 
 **Author:** Melissa Topkaraoglu  
 **Role:** Cybersecurity Analyst | SOC Tier 3  
-**GitHub:** 
+**GitHub:** [github.com/MelissaTopkaraoglu](https://github.com/MelissaTopkaraoglu/Portfolio/))
 
 ---
 
@@ -79,6 +79,6 @@ basic-network-scanner/
 Educational Purpose
 This tool is for cybersecurity learning and demonstration only. Please do not use on networks without authorization.
 
-📬 Contact
+Contact
 LinkedIn: linkedin.com/in/yourprofile
 Email: youremail@example.com
