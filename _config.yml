@@ -1,1 +1,21 @@
+# 🔍 Basic Network Scanner (Python)
+
+A beginner-friendly network scanner written in Python that identifies active hosts on a subnet and scans for open ports.
+
+## 🚀 Features
+
+- Detects live devices on a given network
+- Scans for common open ports (e.g., 22, 80, 443)
+- Uses native Python libraries (no external dependencies)
+- Cross-platform support (Linux, Windows, macOS)
+
+## 🧪 Usage
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/basic-network-scanner.git
+cd basic-network-scanner
+
+# Run the script
+python network_scanner.py
 
